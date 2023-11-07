@@ -1,0 +1,14 @@
+2023-11-05T16:18:36+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) dans C:\wamp64\www\web\wp-content\plugins\woocommerce\src\Internal\Traits\AccessiblePrivateMethods.php à la ligne 0
+
+2023-11-05T16:18:46+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) dans C:\wamp64\www\web\wp-content\plugins\woocommerce\src\Internal\Traits\AccessiblePrivateMethods.php à la ligne 0
+
+2023-11-05T16:18:54+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) dans C:\wamp64\www\web\wp-content\plugins\woocommerce\src\Internal\Traits\AccessiblePrivateMethods.php à la ligne 158
+
+2023-11-05T16:28:43+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) dans C:\wamp64\www\web\wp-includes\rest-api.php à la ligne 3308
+
+2023-11-05T16:29:04+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) dans C:\wamp64\www\web\wp-content\plugins\woocommerce\src\Internal\Traits\AccessiblePrivateMethods.php à la ligne 158
+
+2023-11-05T16:29:16+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) dans C:\wamp64\www\web\wp-content\plugins\woocommerce\src\Internal\Traits\AccessiblePrivateMethods.php à la ligne 158
+
+2023-11-05T20:09:59+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) dans C:\wamp64\www\web\wp-content\plugins\woocommerce\src\Internal\Traits\AccessiblePrivateMethods.php à la ligne 158
+

@@ -1,0 +1,11 @@
+2023-11-01T20:50:14+00:00 CRITICAL Uncaught TypeError: Unsupported operand types: string + int in C:\wamp64\www\wordpress\wp-content\plugins\woocommerce\includes\class-wc-ajax.php:2795
+Stack trace:
+#0 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce\includes\class-wc-ajax.php(2773): WC_AJAX::variation_bulk_adjust_price(Array, 'sale_price', '-', '0')
+#1 C:\wamp64\www\wordpress\wp-content\plugins\woocommerce\includes\class-wc-ajax.php(2887): WC_AJAX::variation_bulk_action_variable_sale_price_decrease(Array, Array)
+#2 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(310): WC_AJAX::bulk_edit_variations('')
+#3 C:\wamp64\www\wordpress\wp-includes\class-wp-hook.php(334): WP_Hook->apply_filters('', Array)
+#4 C:\wamp64\www\wordpress\wp-includes\plugin.php(517): WP_Hook->do_action(Array)
+#5 C:\wamp64\www\wordpress\wp-admin\admin-ajax.php(188): do_action('wp_ajax_woocomm...')
+#6 {main}
+  thrown dans C:\wamp64\www\wordpress\wp-content\plugins\woocommerce\includes\class-wc-ajax.php à la ligne 2795
+

@@ -1,0 +1,68 @@
+2023-11-06T10:41:47+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 552960 bytes) dans C:\wamp64\www\web\wp-content\plugins\elementor\core\files\css\base.php à la ligne 398
+
+2023-11-06T10:56:54+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 552960 bytes) dans C:\wamp64\www\web\wp-content\plugins\elementor\core\files\css\base.php à la ligne 398
+
+2023-11-06T11:05:24+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 581632 bytes) dans C:\wamp64\www\web\wp-content\plugins\elementor\core\files\css\base.php à la ligne 398
+
+2023-11-06T11:13:51+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 573440 bytes) dans C:\wamp64\www\web\wp-content\plugins\elementor\core\files\css\base.php à la ligne 398
+
+2023-11-06T11:21:08+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) dans C:\wamp64\www\web\wp-content\plugins\woocommerce\includes\rest-api\Controllers\Version1\class-wc-rest-customers-v1-controller.php à la ligne 1
+
+2023-11-06T11:32:56+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) dans C:\wamp64\www\web\wp-content\plugins\woocommerce\includes\rest-api\Controllers\Version1\class-wc-rest-coupons-v1-controller.php à la ligne 314
+
+2023-11-06T11:33:36+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) dans C:\wamp64\www\web\wp-content\plugins\woocommerce\includes\wccom-site\installation\installation-steps\class-wc-wccom-site-installation-step-activate-product.php à la ligne 119
+
+2023-11-06T11:36:44+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) dans C:\wamp64\www\web\wp-content\plugins\woocommerce\includes\rest-api\Controllers\Version1\class-wc-rest-customers-v1-controller.php à la ligne 1
+
+2023-11-06T11:37:29+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) dans C:\wamp64\www\web\wp-content\plugins\woocommerce\includes\wccom-site\installation\class-wc-wccom-site-installation-state.php à la ligne 1
+
+2023-11-06T11:37:44+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) dans C:\wamp64\www\web\wp-content\plugins\woocommerce\includes\rest-api\Controllers\Version1\class-wc-rest-coupons-v1-controller.php à la ligne 314
+
+2023-11-06T11:37:54+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) dans C:\wamp64\www\web\wp-content\plugins\woocommerce\includes\rest-api\Controllers\Version1\class-wc-rest-coupons-v1-controller.php à la ligne 314
+
+2023-11-06T11:38:01+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) dans C:\wamp64\www\web\wp-content\plugins\woocommerce\includes\rest-api\Controllers\Version1\class-wc-rest-coupons-v1-controller.php à la ligne 354
+
+2023-11-06T11:38:08+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) dans C:\wamp64\www\web\wp-content\plugins\woocommerce\includes\rest-api\Controllers\Version1\class-wc-rest-coupons-v1-controller.php à la ligne 314
+
+2023-11-06T11:49:25+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 655360 bytes) dans C:\wamp64\www\web\wp-includes\class-wpdb.php à la ligne 1317
+
+2023-11-06T11:50:15+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 655360 bytes) dans C:\wamp64\www\web\wp-includes\class-wpdb.php à la ligne 1317
+
+2023-11-06T11:55:41+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 552960 bytes) dans C:\wamp64\www\web\wp-content\plugins\elementor\core\files\css\base.php à la ligne 398
+
+2023-11-06T11:59:35+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 552960 bytes) dans C:\wamp64\www\web\wp-content\plugins\elementor\core\files\css\base.php à la ligne 398
+
+2023-11-06T12:06:58+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) dans C:\wamp64\www\web\wp-content\plugins\woocommerce\includes\rest-api\Controllers\Version1\class-wc-rest-customers-v1-controller.php à la ligne 802
+
+2023-11-06T12:07:23+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) dans C:\wamp64\www\web\wp-content\plugins\woocommerce\includes\rest-api\Controllers\Version1\class-wc-rest-customers-v1-controller.php à la ligne 911
+
+2023-11-06T12:07:46+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) dans C:\wamp64\www\web\wp-content\plugins\woocommerce\includes\rest-api\Controllers\Version1\class-wc-rest-customers-v1-controller.php à la ligne 911
+
+2023-11-06T12:08:23+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 573440 bytes) dans C:\wamp64\www\web\wp-content\plugins\elementor\core\files\css\base.php à la ligne 398
+
+2023-11-06T12:09:38+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) dans C:\wamp64\www\web\wp-content\plugins\woocommerce\includes\rest-api\Controllers\Version1\class-wc-rest-customers-v1-controller.php à la ligne 802
+
+2023-11-06T12:10:14+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 573440 bytes) dans C:\wamp64\www\web\wp-content\plugins\elementor\core\files\css\base.php à la ligne 398
+
+2023-11-06T12:19:32+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 552960 bytes) dans C:\wamp64\www\web\wp-content\plugins\elementor\core\files\css\base.php à la ligne 398
+
+2023-11-06T14:18:14+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 552960 bytes) dans C:\wamp64\www\web\wp-content\plugins\elementor\core\files\css\base.php à la ligne 398
+
+2023-11-06T14:49:04+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) dans C:\wamp64\www\web\wp-content\plugins\woocommerce\includes\rest-api\Controllers\Version1\class-wc-rest-customers-v1-controller.php à la ligne 1
+
+2023-11-06T16:11:46+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) dans C:\wamp64\www\web\wp-content\plugins\woocommerce\src\Internal\Traits\AccessiblePrivateMethods.php à la ligne 158
+
+2023-11-06T17:01:53+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 163840 bytes) dans C:\wamp64\www\web\wp-content\plugins\elementor\includes\autoloader.php à la ligne 294
+
+2023-11-06T17:04:02+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) dans C:\wamp64\www\web\wp-content\plugins\elementor\includes\fonts.php à la ligne 336
+
+2023-11-06T17:04:19+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) dans C:\wamp64\www\web\wp-content\plugins\elementor\includes\fonts.php à la ligne 336
+
+2023-11-06T17:15:11+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) dans C:\wamp64\www\web\wp-content\plugins\elementor\includes\fonts.php à la ligne 1
+
+2023-11-06T17:17:32+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) dans C:\wamp64\www\web\wp-content\plugins\elementor\includes\fonts.php à la ligne 1
+
+2023-11-06T17:19:47+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 36864 bytes) dans C:\wamp64\www\web\wp-includes\class-wpdb.php à la ligne 3162
+
+2023-11-06T17:24:12+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 32768 bytes) dans C:\wamp64\www\web\wp-content\plugins\elementor\includes\fonts.php à la ligne 1
+
